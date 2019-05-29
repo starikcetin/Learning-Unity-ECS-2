@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\cetin\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\cetin\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="F:\Learning-Unity-ECS-2\01 - Converting GameObjects to Entities" t="IncludeFlat">
+      <e p="01 - Converting GameObjects to Entities.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive" />
+    </e>
+    <e p="G:\.meta and utilities\Resharper Cache\_01 - Converting GameObjects to Entities.1324603241.RD.00" t="ExcludeRecursive" />
+  </component>
+</project>
