@@ -4,7 +4,6 @@ using UnityEngine;
 /// Author for <seealso cref="ExampleComponent"/>
 [DisallowMultipleComponent]
 [RequiresEntityConversion]
-// ReSharper disable once CheckNamespace
 public class ExampleComponentAuthor : MonoBehaviour, IConvertGameObjectToEntity
 {
     [SerializeField] private int _value;
