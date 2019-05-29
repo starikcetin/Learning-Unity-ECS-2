@@ -19,6 +19,8 @@ Don't forget to leave a star if this repository helped you!
 
 If you think something is missing, you are more than welcome to send pull requests and open issues.
 
+Or you can discuss it in the Unity forum thread here: https://forum.unity.com/threads/learning-unity-ecs-2.686734/
+
 ----
 
 MIT license. Refer to the [LICENSE](/LICENSE) file.
