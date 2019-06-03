@@ -1,14 +1,12 @@
 
-02.B - With GameObjectConversion
----
+# 02.B - With GameObjectConversion
 
 1. Converts the Prefab to an Entity representation using `GameObjectConversionUtility.ConvertGameObjectHierarchy(GameObject, World)`, passing in the Prefab and the ECS world.
 
 2. Instantiates it using `World.Instantiate(Entity)`, passing in the Entity we get from _step #1_.
 
 
-Notes
----
+## Notes
 
 - This is the way ECS gods intended.
 	- _By "gods", I mean Mike Acton, Mike Acton, and Mike Acton. Did I mention Mike Acton?_
