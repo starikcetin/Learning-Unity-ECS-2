@@ -1,5 +1,4 @@
-02.C - From the ECS
----
+# 02.C - From the ECS
 
 Instantiating a Prefab via a System.
 
