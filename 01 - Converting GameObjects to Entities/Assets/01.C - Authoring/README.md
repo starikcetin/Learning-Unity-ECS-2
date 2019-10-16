@@ -1,4 +1,4 @@
-# 01.B - Authoring #
+# 01.C - Authoring #
 Setting up ECS component data from Author MonoBehaviour scripts.
 
 ## Procedure ##
